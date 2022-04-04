@@ -6,14 +6,14 @@
 <div>
   <a href="https://github.com/guilhermer0cha"> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermer0cha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermer0cha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermer0cha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br> 
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 
  
 
- <a href = "https://github.com/VitorL02"> <img align="right" alt="Vitu-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68614036/138629050-93fafc6c-f976-4560-acd8-dae55757d13e.png"> </a>
+ <a href = "https://github.com/guilhermer0cha"> <img align="right" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/79543516?s=96&v=4"> </a>
 </div>
 <br>
 
