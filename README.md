@@ -1,7 +1,7 @@
 ### Oie! >< uwu :3
 
 
-- 😈
+
 
 <div>
   <a href="https://github.com/guilhermer0cha"> </a>
