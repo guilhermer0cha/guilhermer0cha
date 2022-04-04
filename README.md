@@ -6,9 +6,9 @@
 - ⚡ Fun fact: Transo
 
 <div align="center">
-  <a href="https://github.com/VitorL02"> </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorL02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorL02&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/guilhermer0cha"> </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermer0cha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermer0cha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
