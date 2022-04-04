@@ -13,7 +13,7 @@
 
  
 
- <a href = "https://github.com/guilhermer0cha"> <img align="right" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/79543516?s=96&v=4"> </a>
+ <a href = "https://github.com/guilhermer0cha"> <img align="right" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F164478%2FToge_Inumaki&psig=AOvVaw0XvrepzplJ2ccDAyoke4yG&ust=1649169861445000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDz7PrS-vYCFQAAAAAdAAAAABAD"> </a>
 </div>
 <br>
 
@@ -23,8 +23,4 @@
   <a href="https://www.linkedin.com/in/vitorlucascrispim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🔭 Hoje Trabalho como Estagiário  em Testes e busco uma oportunidade em Desenvolvimento<br>
-- 🌱 Atualmente estudo JavaScript, HTML E CSS3<br>
-- 📫 Me contate pelo email : vitorcrispim2@yahoo.com.br ou via instragram @vitor_lucas3<br>
-- ⚡ Sou um amante de Volêi,é meu esporte favorito 🏐 <br>
 
