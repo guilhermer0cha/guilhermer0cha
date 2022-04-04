@@ -13,13 +13,5 @@
 
  
 
- <a href = "https://github.com/guilhermer0cha"> <img align="right" height="150" style="border-radius:50px;" src="https://cdn.myanimelist.net/r/360x360/images/characters/16/428791.jpg?s=b4764599b2f8a6ff78efae233aafa8e7"> </a>
-</div>
-<br>
-
-<div> 
-  <a href="https://www.instagram.com/jguilhermer0cha/" target="_blank">
-  <img height="50em" width="200em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 
