@@ -13,7 +13,7 @@
 
  
 
- <a href = "https://github.com/guilhermer0cha"> <img align="right" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanimelist.net%2Fcharacter%2F164478%2FToge_Inumaki&psig=AOvVaw0XvrepzplJ2ccDAyoke4yG&ust=1649169861445000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDz7PrS-vYCFQAAAAAdAAAAABAD"> </a>
+ <a href = "https://github.com/guilhermer0cha"> <img align="right" height="150" style="border-radius:50px;" src="https://cdn.myanimelist.net/r/360x360/images/characters/16/428791.jpg?s=b4764599b2f8a6ff78efae233aafa8e7"> </a>
 </div>
 <br>
 
